@@ -24,6 +24,6 @@ example of usage:
 json_parse.sh /path/to/file\
 json_parse.sh -h --help - print help info
 
-####data:
+#### data:
 qaservers - list of servers for test tasks #1 & #2
 example.json - file with json inside for test task #3
